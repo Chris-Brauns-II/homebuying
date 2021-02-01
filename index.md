@@ -2,93 +2,93 @@
 layout: home
 ---
 
-**Process:**
+# Process
 
--   Find a trusted realtor through Dave Ramsey's website, word of mouth,
+Find a trusted realtor through Dave Ramsey's website, word of mouth,
     connections at church, etc.
 
--   Talk to a mortgage lender to get pre-approved for a loan on the home
+Talk to a mortgage lender to get pre-approved for a loan on the home
 
-    -   This involves collecting things like prior tax returns, pay
-        stubs, 401(k) statements, ROTH-IRA statements, credit score,
-        etc.
+-   This involves collecting things like prior tax returns, pay
+    stubs, 401(k) statements, ROTH-IRA statements, credit score,
+    etc.
 
-    -   The goal of this step is to figure out how much home you can
-        afford
+-   The goal of this step is to figure out how much home you can
+    afford
 
-        -   As a reference, Dave Ramsey says no more than 25% of
-            take-home income (income net of taxes) on principal,
-            interest, taxes, and insurance on a 15-year mortgage
+    -   As a reference, Dave Ramsey says no more than 25% of
+        take-home income (income net of taxes) on principal,
+        interest, taxes, and insurance on a 15-year mortgage
 
--   Once you know how much you can afford, start simultaneously
+Once you know how much you can afford, start simultaneously
 
-    -   Looking at homes/condos both online (via. Zillow, redfin, your
-        realtor, etc.) and in person
+  -   Looking at homes/condos both online (via. Zillow, redfin, your
+      realtor, etc.) and in person
 
-        -   Looking at homes in person with people who have bought many
-            homes before is strongly recommended, especially if this is
-            your first time purchasing one
+      -   Looking at homes in person with people who have bought many
+          homes before is strongly recommended, especially if this is
+          your first time purchasing one
 
-    -   Considering what kind of home that you'd like to have given the
-        current market: ranch, multiple stories, split-level, open floor
-        plan, long-term home with space for many kids, short-term
-        starter home, location, school districts, taxes, etc.
+  -   Considering what kind of home that you'd like to have given the
+      current market: ranch, multiple stories, split-level, open floor
+      plan, long-term home with space for many kids, short-term
+      starter home, location, school districts, taxes, etc.
 
-        -   Decide on things that are a need (e.g. location, location,
-            location, home vs. condo, need to have 3 bedrooms and 2.5
-            bathrooms, 2 car garage, big backyard, etc.) versus things
-            that are wants (e.g. master on main floor, finished
-            basement, open floor plan, etc.).
+      -   Decide on things that are a need (e.g. location, location,
+          location, home vs. condo, need to have 3 bedrooms and 2.5
+          bathrooms, 2 car garage, big backyard, etc.) versus things
+          that are wants (e.g. master on main floor, finished
+          basement, open floor plan, etc.).
 
-        -   This is probably the most difficult part of the process and
-            will likely change multiple times through the process
+      -   This is probably the most difficult part of the process and
+          will likely change multiple times through the process
 
-    -   If you can afford it, it could be nice to consider building a
-        home as well as looking at older homes for sale. You can explore
-        the process of building a home (which can take months) while
-        continuing to look at older homes for sale
+If you can afford it, it could be nice to consider building a
+      home as well as looking at older homes for sale. You can explore
+      the process of building a home (which can take months) while
+      continuing to look at older homes for sale
 
-    -   The goal of this is to find what kind of home you want and being
-        ready to buy
+  -   The goal of this is to find what kind of home you want and being
+      ready to buy
 
-        -   From Algorithms to live by, you should decide on how long
-            you want to spend on the whole process, look for homes for
-            2/3 the time without any goal of commitment. After the 2/3
-            time is up, you should move on anything that you find that
-            is as good or better than the homes you saw in the first 2/3
-            of your search
+      -   From Algorithms to live by, you should decide on how long
+          you want to spend on the whole process, look for homes for
+          2/3 the time without any goal of commitment. After the 2/3
+          time is up, you should move on anything that you find that
+          is as good or better than the homes you saw in the first 2/3
+          of your search
 
--   Making an offer on a home
+## Making an offer on a home
 
-    -   An offer includes amount of money for the house and
-        contingencies like waving request to remedy, contingent on the
-        inspection of the house, appraisal gap, paying for closing
-        costs, putting a deadline on the offer, including an offer
-        letter, dollars in earnest
+An offer includes amount of money for the house and
+      contingencies like waving request to remedy, contingent on the
+      inspection of the house, appraisal gap, paying for closing
+      costs, putting a deadline on the offer, including an offer
+      letter, dollars in earnest
 
-        -   The need for these will change based on the market. Work
-            with your realtor on deciding what makes a strong and
-            appropriate offer in your market
+-   The need for these will change based on the market. Work
+    with your realtor on deciding what makes a strong and
+    appropriate offer in your market
 
-        -   Waiving Request to Remedy is telling them we are not going
-            to ask the seller to fix anything. That doesn't mean you
-            can't get of the contract. It doesn't mean you can't ask
-            them to fix major repairs that they would have to disclose.
-            The main reason for inspections is health and safety of the
-            home. If there was something that was found to be unhealthy
-            or not safe after inspection (that was not previously
-            disclosed) we could go and ask them to fix it. They have to
-            the right to say no, but we can still negotiate and try to
-            work something out. If we waive request to remedy, you won't
-            ask them to fix a broken dishwasher or a lock that doesn't
-            operate well. Essentially minor things
+-   Waiving Request to Remedy is telling them we are not going
+    to ask the seller to fix anything. That doesn't mean you
+    can't get of the contract. It doesn't mean you can't ask
+    them to fix major repairs that they would have to disclose.
+    The main reason for inspections is health and safety of the
+    home. If there was something that was found to be unhealthy
+    or not safe after inspection (that was not previously
+    disclosed) we could go and ask them to fix it. They have to
+    the right to say no, but we can still negotiate and try to
+    work something out. If we waive request to remedy, you won't
+    ask them to fix a broken dishwasher or a lock that doesn't
+    operate well. Essentially minor things
 
-        -   Appraisal gap is saying that we will fill the gap between
-            the appraisal and the offer price if the appraisal comes in
-            under the offer
+-   Appraisal gap is saying that we will fill the gap between
+    the appraisal and the offer price if the appraisal comes in
+    under the offer
 
-            -   This is needed since the bank will only approve a
-                mortgage up to the appraisal amount
+    -   This is needed since the bank will only approve a
+        mortgage up to the appraisal amount
 
 -   Once offer is accepted, you are in contract and the home is
     contingent
@@ -123,7 +123,7 @@ layout: home
     -   ***[There may be something like 30-year new home warranty
         too?]{.ul}***
 
-**Questions to ask your realtor about each prospective home**
+## Questions to ask your realtor about each prospective home
 
 -   Is it worth the money?
 
@@ -131,49 +131,47 @@ layout: home
 
 -   What other riders/clauses should I include in it?
 
-**Mortgage Information**
+## Mortgage Information
 
--   Mortgage Call with Peggy Halbrook 12/3/2020
+  -   You skip one month of mortgage payments after you close.
+      Specifically, if you close in March, we skip the April mortgage
+      payment and make our first mortgage payment in May
 
-    -   You skip one month of mortgage payments after you close.
-        Specifically, if you close in March, we skip the April mortgage
-        payment and make our first mortgage payment in May
+  -   Pre-approval is free and lasts 120 days
 
-    -   Pre-approval is free and lasts 120 days
+  -   Pre-approval application requires a hard inquiry into your
+      credit score, which will knock it down, but this is removed from
+      your credit scores in 90 days
 
-    -   Pre-approval application requires a hard inquiry into your
-        credit score, which will knock it down, but this is removed from
-        your credit scores in 90 days
+      -   This is true for credit cards too
 
-        -   This is true for credit cards too
+  -   90% of the interest rate and approval amount depends on this
+      credit score
 
-    -   90% of the interest rate and approval amount depends on this
-        credit score
+  -   If cannot pay full 20% down, mortgage insurance is required.
+      This is impacted by my debt ratio, which is calculated as
 
-    -   If cannot pay full 20% down, mortgage insurance is required.
-        This is impacted by my debt ratio, which is calculated as
+      -   $DebtRatio = \ \frac{Total\ Monthly\ Payment + Minimum\ Payments\ for\ Other\ Credit\ Amounts}{\text{Gross\ Monthly\ Combined\ Income}}$
 
-        -   $DebtRatio = \ \frac{Total\ Monthly\ Payment + Minimum\ Payments\ for\ Other\ Credit\ Amounts}{\text{Gross\ Monthly\ Combined\ Income}}$
+      -   If this debt ratio is less than 43%, this will give you the
+          best mortgage insurance rate. There is no benefit from going
+          from 43% to say 20% since the rate will not be any better
 
-        -   If this debt ratio is less than 43%, this will give you the
-            best mortgage insurance rate. There is no benefit from going
-            from 43% to say 20% since the rate will not be any better
+  -   Ohio is a dower state, which means that spouses will be on the
+      title and have rights to the home even if spouses are not on the
+      loan; this means that you should use the credit score of the
+      spouse with the highest credit score for the loan, and the other
+      spouse will still be on the title
 
-    -   Ohio is a dower state, which means that spouses will be on the
-        title and have rights to the home even if spouses are not on the
-        loan; this means that you should use the credit score of the
-        spouse with the highest credit score for the loan, and the other
-        spouse will still be on the title
+  -   There are first time homebuyer perks for less mortgage
+      insurance, and these are only available for people who make less
+      than \~\$60K per year
 
-    -   There are first time homebuyer perks for less mortgage
-        insurance, and these are only available for people who make less
-        than \~\$60K per year
+  -   There are down payment assistance programs for those with higher
+      income than \$60K per year, but these increase closing costs by
+      \~\$1k and require a higher interest rate
 
-    -   There are down payment assistance programs for those with higher
-        income than \$60K per year, but these increase closing costs by
-        \~\$1k and require a higher interest rate
-
-**Tips for New Build**
+## Tips for New Build
 
 -   Confirm the size of the yard; usually they are small in new builds
 
@@ -297,54 +295,53 @@ layout: home
 
 -   Check the door quality: are they hollow or full doors
 
-**FAQ:**
+## FAQ
 
--   What are big ticket items to be looking out for in homes?
+### What are big ticket items to be looking out for in homes?
 
-    -   Boiler, A/C, roof, HVAC, anything structural
+Boiler, A/C, roof, HVAC, anything structural
 
--   Why do home details online include whether the home was built before
-    1978 or not?
+### Why do home details online include whether the home was built before 1978 or not?
 
-    -   Any home built before 1978 has to have lead-based paint
-        disclaimer. Homes built before 78 used lead-based paint. This is
-        more of a disclaimer since it's usually not an issue; plus the
-        seller has to disclose if they are aware of LBP.
+Any home built before 1978 has to have lead-based paint
+    disclaimer. Homes built before 78 used lead-based paint. This is
+    more of a disclaimer since it's usually not an issue; plus the
+    seller has to disclose if they are aware of LBP.
 
--   What does poured versus block basement mean?
+### What does poured versus block basement mean?
 
-    -   Poured foundation usually means that the basement walls are
-        poured concrete and the walls are not Cinder / Cement Block. 
-        Cement block has voids and can easily leak moisture and is a
-        race way for termites. Usually they will have some vertical
-        rebar inside the void maybe every three or four feet and where
-        the rebar is the void is filled with concrete.  Placement of
-        rebar and filling of voids is a city/ county building code
-        requirement.  I like poured versus block. - Umpa
+Poured foundation usually means that the basement walls are
+    poured concrete and the walls are not Cinder / Cement Block. 
+    Cement block has voids and can easily leak moisture and is a
+    race way for termites. Usually they will have some vertical
+    rebar inside the void maybe every three or four feet and where
+    the rebar is the void is filled with concrete.  Placement of
+    rebar and filling of voids is a city/ county building code
+    requirement.  I like poured versus block. - Umpa
 
--   Vinyl siding versus other sidings?
+### Vinyl siding versus other sidings?
 
-    -   Vinyl I do not know a lot about this type of siding it wears
-        well from what little I have read.  Extreme heat may cause some
-        warping (twist) it is usually used in covering other type of
-        existing siding to provide aa fresh appearance. We had steel
-        siding placed on our hone on Mesa Vista. One should read up on
-        it if they are considering buying a home with this type of
-        siding and look at pro and con and not the owner or realtor. --
-        Umpa
+Vinyl I do not know a lot about this type of siding it wears
+    well from what little I have read.  Extreme heat may cause some
+    warping (twist) it is usually used in covering other type of
+    existing siding to provide aa fresh appearance. We had steel
+    siding placed on our hone on Mesa Vista. One should read up on
+    it if they are considering buying a home with this type of
+    siding and look at pro and con and not the owner or realtor. --
+    Umpa
 
--   Should I use my ROTH-IRA for a down payment?
+### Should I use my ROTH-IRA for a down payment?
 
-    -   <https://www.nerdwallet.com/article/investing/cautious-raiding-roth-ira-buy-home>
+<https://www.nerdwallet.com/article/investing/cautious-raiding-roth-ira-buy-home>
 
-    -   Note that any traditional IRA contributions that you've rolled
-        into a ROTH-IRA are considered "converted funds" and are not
-        available for immediate withdrawal; they are subject to the 10%
-        early withdrawal penalty unless they are held in the ROTH-IRA
-        for 5 years or unless you are using it for your 1^st^ time home
-        purchase.
+Note that any traditional IRA contributions that you've rolled
+    into a ROTH-IRA are considered "converted funds" and are not
+    available for immediate withdrawal; they are subject to the 10%
+    early withdrawal penalty unless they are held in the ROTH-IRA
+    for 5 years or unless you are using it for your 1^st^ time home
+    purchase.
 
-        -   <https://www.investopedia.com/terms/b/backdoor-roth-ira.asp#citation-5>
+- <https://www.investopedia.com/terms/b/backdoor-roth-ira.asp#citation-5>
 
-        -   <https://www.hrblock.com/tax-center/irs/tax-responsibilities/early-withdrawal-penalties/#:~:text=Roth%20IRA%20Early%20Withdrawal%20Penalty%20%26%20Converted%20Amounts&text=If%20you%20withdraw%20contributions%20before,on%20the%20amount%20you%20converted>.
+- <https://www.hrblock.com/tax-center/irs/tax-responsibilities/early-withdrawal-penalties/#:~:text=Roth%20IRA%20Early%20Withdrawal%20Penalty%20%26%20Converted%20Amounts&text=If%20you%20withdraw%20contributions%20before,on%20the%20amount%20you%20converted>.
 
